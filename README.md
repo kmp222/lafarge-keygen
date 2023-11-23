@@ -1,6 +1,6 @@
-# LaFarge's Crack Me Open Challenge Solution
+# LaFarge's Crack Me \#2 Open Challenge Solution
 ## Introduction
-This repository contains my personal solution for LaFarge's Crack Me open challenge. The challenge required the development of a unique key generator for each user. I utilized x32dbg for the creation of the patch.
+This repository contains my personal solution for LaFarge's Crack Me #2 open challenge. The challenge required the development of a unique key generator for each user. I utilized x32dbg for the creation of the patch.
 
 ## Solution Overview
 ### Key Generation
